@@ -1,20 +1,19 @@
 body{
-    font-family: 'Lato', sans-serif;
+    font-family: 'lato', sans-serif;
 }
 
 h1{
-    font-family: 'Montserrat', sans-serif; 
-    color: rgb(113, 198, 238)    ;
+    font-family: 'Lato', sans-serif;
 
 }
 .colorhead{
-   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b3dced+0,29b8e5+50,bce0ee+100;Blue+Pipe */
-background: rgb(179,220,237); /* Old browsers */
-background: -moz-linear-gradient(left,  rgb(179,220,237) 0%, rgb(41,184,229) 50%, rgb(188,224,238) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(left,  rgb(179,220,237) 0%,rgb(41,184,229) 50%,rgb(188,224,238) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to right,  rgb(179,220,237) 0%,rgb(41,184,229) 50%,rgb(188,224,238) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee',GradientType=1 ); /* IE6-9 */
-
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#03070f+44,03070f+66,6d0e0e+93,6d0e0e+100 */
+    background: rgb(3,7,15); /* Old browsers */
+    background: -moz-linear-gradient(left, rgb(3,7,15) 44%, rgb(3,7,15) 66%, rgb(109,14,14) 93%, rgb(109,14,14) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgb(3,7,15) 44%,rgb(3,7,15) 66%,rgb(109,14,14) 93%,rgb(109,14,14) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgb(3,7,15) 44%,rgb(3,7,15) 66%,rgb(109,14,14) 93%,rgb(109,14,14) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#03070f', endColorstr='#6d0e0e',GradientType=1 ); /* IE6-9 */
+    
 }
 .imagen1{
     width: 200px;
@@ -26,7 +25,4 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', end
 }
 .desventajas{
     background-color: rgba(245, 140, 140, 0.205);
-}
-h2{
-    color: rgb(255, 255, 255);
 }
