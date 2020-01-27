@@ -1,0 +1,8 @@
+.colorhead{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#03070f+44,03070f+66,6d0e0e+93,6d0e0e+100 */
+    background: rgb(3,7,15); /* Old browsers */
+    background: -moz-linear-gradient(left, rgb(3,7,15) 44%, rgb(3,7,15) 66%, rgb(109,14,14) 93%, rgb(109,14,14) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgb(3,7,15) 44%,rgb(3,7,15) 66%,rgb(109,14,14) 93%,rgb(109,14,14) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgb(3,7,15) 44%,rgb(3,7,15) 66%,rgb(109,14,14) 93%,rgb(109,14,14) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#03070f', endColorstr='#6d0e0e',GradientType=1 ); /* IE6-9 */
+    }
