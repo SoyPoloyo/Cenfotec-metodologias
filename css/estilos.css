@@ -1,3 +1,12 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-family: 'Lato', sans-serif;
+    color: rosybrown    ;
+
+}
 .colorhead{
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#03070f+44,03070f+66,6d0e0e+93,6d0e0e+100 */
     background: rgb(3,7,15); /* Old browsers */
@@ -11,4 +20,13 @@
     width: 200px;
     margin-left: 200px;
     border-radius: 50px;
+}
+.ventajas{
+    background-color: #a4fca44d;
+}
+.desventajas{
+    background-color: rgba(245, 140, 140, 0.205);
+}
+h2{
+    color: rgb(169, 209, 117);
 }
