@@ -42,6 +42,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9caff4', end
     width: 250px;
     border-radius: 50px;
     margin-left: 150px;
+    margin-bottom: 25px;
+
+}
+.imagen3_{
+    width: 80%;
+    border-radius: 50px;
+    margin-left: 60px;
+    margin-bottom: 25px;
+
 }
 .venydes{
     background: rgb(156, 244, 182); /* Old browsers */
@@ -60,4 +69,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9caff4', end
 }
 .margen{
     margin-bottom: 0;
+}
+
+.sangria{
+    text-indent: 20px;
+}
+.justificado{
+    text-align: center;
 }
