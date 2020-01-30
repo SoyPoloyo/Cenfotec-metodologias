@@ -51,9 +51,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9caff4', end
 .imagen3_{
     width: 80%;
     border-radius: 50px;
-    margin-left: 60px;
+    margin-left: 0px;
     margin-bottom: 25px;
 
+}
+.tamano{
+    width: 800px;
 }
 .venydes{
     background: rgb(156, 244, 182); /* Old browsers */
@@ -79,4 +82,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9caff4', end
 }
 .justificado{
     text-align: center;
+}
+.tablas{
+    height: 215px;
 }
