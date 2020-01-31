@@ -55,6 +55,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9caff4', end
     margin-bottom: 25px;
 
 }
+.headertamano{
+    height: 260px;
+}
 .tamano{
     width: 800px;
 }
